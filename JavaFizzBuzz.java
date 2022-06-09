@@ -15,7 +15,8 @@ public class JavaFizzBuzz {
 				System.out.println("Buzz");
 			}	else {
 				System.out.println(i);
-	}
+			}
+	
 
 }
 }
